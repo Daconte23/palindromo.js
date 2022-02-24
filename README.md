@@ -1,0 +1,2 @@
+# palindromo.js
+JUNIOR WEB DEVELOPER CHALLENGE
